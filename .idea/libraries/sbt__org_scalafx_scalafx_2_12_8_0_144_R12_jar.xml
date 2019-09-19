@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.scalafx:scalafx_2.12:8.0.144-R12:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/org/scalafx/scalafx_2.12/8.0.144-R12/scalafx_2.12-8.0.144-R12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/org/scalafx/scalafx_2.12/8.0.144-R12/scalafx_2.12-8.0.144-R12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
