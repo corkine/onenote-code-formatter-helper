@@ -10,4 +10,6 @@
 
 > sbt 0.13，scala 2.12，scalafx 1.8，jsoup
 
-二进制下载地址：[阿里云 OSS CDN 下载，macOS](http://static2.mazhangjing.com/share/Code%20Formatter%20Helper.app.zip)
+二进制下载地址：[AliyunOSS CDN, macOS](http://static2.mazhangjing.com/share/Code%20Formatter%20Helper.app.zip)
+
+Windows 和 Linux 请自行编译程序。
