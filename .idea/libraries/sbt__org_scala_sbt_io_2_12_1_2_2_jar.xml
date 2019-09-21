@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.scala-sbt:io_2.12:1.2.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/org/scala-sbt/io_2.12/1.2.2/io_2.12-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/org/scala-sbt/io_2.12/1.2.2/io_2.12-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cleanApp.iml" filepath="$PROJECT_DIR$/.idea/modules/cleanApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cleanApp-build.iml" filepath="$PROJECT_DIR$/.idea/modules/cleanApp-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pasteApp.iml" filepath="$PROJECT_DIR$/.idea/modules/pasteApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pasteApp-build.iml" filepath="$PROJECT_DIR$/.idea/modules/pasteApp-build.iml" />
     </modules>
   </component>
 </project>

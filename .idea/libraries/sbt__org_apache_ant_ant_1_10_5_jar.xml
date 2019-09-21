@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.ant:ant:1.10.5:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/org/apache/ant/ant/1.10.5/ant-1.10.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/org/apache/ant/ant/1.10.5/ant-1.10.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

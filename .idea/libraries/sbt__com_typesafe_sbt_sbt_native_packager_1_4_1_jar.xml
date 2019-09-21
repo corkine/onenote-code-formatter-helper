@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.typesafe.sbt:sbt-native-packager:1.4.1:jar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.coursier/cache/v1/http/dl.bintray.com/sbt/sbt-plugin-releases/com.typesafe.sbt/sbt-native-packager/scala_2.12/sbt_1.0/1.4.1/jars/sbt-native-packager.jar%23%ऴ9%ԙAivy" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/.coursier/cache/v1/http/dl.bintray.com/sbt/sbt-plugin-releases/com.typesafe.sbt/sbt-native-packager/scala_2.12/sbt_1.0/1.4.1/docs/sbt-native-packager-javadoc.jar%23%ऴ9%ԙAivy" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/.coursier/cache/v1/http/dl.bintray.com/sbt/sbt-plugin-releases/com.typesafe.sbt/sbt-native-packager/scala_2.12/sbt_1.0/1.4.1/srcs/sbt-native-packager-sources.jar%23%ऴ9%ԙAivy" />
+    </SOURCES>
+  </library>
+</component>
