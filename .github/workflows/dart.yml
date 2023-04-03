@@ -25,7 +25,6 @@ jobs:
         with:
           name: onenote_code_formatter_helper_windows
           path: build/windows/runner/Release
-          archive-format: zip
 
       - uses: actions/download-artifact@v3
         with:
