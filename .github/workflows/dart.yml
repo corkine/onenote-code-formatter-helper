@@ -24,6 +24,6 @@ jobs:
       - run: flutter build windows
       - uses: actions/upload-artifact@v1
         with:
-          name: release-exe
+          name: onenote_code_formatter_helper.zip
           path: build/windows/runner/Release
           archive-format: zip
