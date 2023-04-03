@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'OneNote Code Converter',
       theme: ThemeData(
         useMaterial3: true,
         colorSchemeSeed: Colors.pink,
@@ -60,24 +60,24 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text(widget.title),
-      ),
-      body: StreamBuilder<String>(
-        stream: convertSC.stream,
-        builder: (context,snap) {
-          if (snap.hasData) {
-            return SingleChildScrollView(
-              child: Center(
-                child: Text(snap.data!),
-              ),
+        appBar: AppBar(
+          title: Text(widget.title),
+        ),
+        body: StreamBuilder<String>(
+          stream: convertSC.stream,
+          builder: (context, snap) {
+            if (snap.hasData) {
+              return SingleChildScrollView(
+                child: Center(
+                  child: Text(snap.data!),
+                ),
+              );
+            }
+            return const Center(
+              child: CircularProgressIndicator(),
             );
-          }
-          return const Center(
-            child: CircularProgressIndicator(),
-          );
-        },
-      ) // This trailing comma makes auto-formatting nicer for build methods.
-    );
+          },
+        ) // This trailing comma makes auto-formatting nicer for build methods.
+        );
   }
 }
