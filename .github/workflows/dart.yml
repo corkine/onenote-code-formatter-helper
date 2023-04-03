@@ -12,8 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-        with:
-          path: flutter
       - uses: subosito/flutter-action@v2
         with:
            channel: 'stable'
